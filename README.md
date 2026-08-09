@@ -132,7 +132,7 @@ Prima di tutto, clicca su "Impostazioni Dataset AI" nel menu di navigazione a si
 ## Aggiunta Gruppo Dataset
 Inserisci un nome per creare il gruppo.
 
-![group](https://github.com/aailixir/italian_manual/blob/main/images/demo_group_it.jpg) 
+![group_add](https://github.com/aailixir/italian_manual/blob/main/images/demo_group_add_it.jpg) 
 
 ## Aggiunta Dataset
 Dopo aver selezionato il gruppo appena creato, puoi cliccare sul pulsante "Aggiungi Dataset" all'interno del gruppo. Dopo averlo aggiunto, puoi iniziare a creare il dataset. I gruppi raccolgono dataset simili che condividono gli stessi tipi di oggetti (file names).

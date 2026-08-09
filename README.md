@@ -5,7 +5,7 @@ Inoltre, poiché i servizi di annotazione delle immagini richiedono la gestione 
 
 ## 📽️ Dimostrazione Video
 Per i video dimostrativi sul riconoscimento e i tutorial operativi, consulta il nostro canale ufficiale:
-👉 [Canale YouTube Ailixir Hus Technology](https://www.youtube.com/@ailixirailixir)
+👉 [Canale YouTube Ailixir Huis Technology](https://www.youtube.com/@ailixirailixir)
 
 ![Dimostrazione Immagini](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo.jpg)
 

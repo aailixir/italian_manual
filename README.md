@@ -150,7 +150,7 @@ Dopo aver selezionato il gruppo appena creato, puoi cliccare sul pulsante "Aggiu
 La modifica del dataset consente di cambiare i dettagli relativi al gruppo e al dataset. Il "Percorso locale" è la directory in cui sono archiviate le foto e le annotazioni.
 <BR>
 <BR>
-![group_modify](https://github.com/aailixir/italian_manual/blob/main/images/demo_group_modify_it.jpg)
+![group_modify](https://github.com/aailixir/italian_manual/blob/main/images/demo_group_modify_ds_it.jpg)
 
 + Percorso Dataset Host: Posizione del dataset sull'host di rete o locale.
 + Quantità: Etichettati: Proporzione tra le immagini totali e quelle etichettate.

@@ -97,7 +97,7 @@ Puoi accedere utilizzando il nome utente e la password predefiniti:
 Dopo aver inserito il nome utente e la password, clicca sul pulsante "Login".
 
 
-![login](https://github.com/aailixir/italian_manual/blob/main/images/demo_nvidia.jpg)
+![login](https://github.com/aailixir/italian_manual/blob/main/images/demo_login.jpg)
 
 ## Panoramica dei Pacchetti di Configurazione dell'Ambiente
 Dopo aver effettuato l'accesso, vai al menu a sinistra sotto "Addestramento Modello AI" e clicca sul pulsante "Panoramica Pacchetti". Il sistema rileverà automaticamente se CUDA e altri pacchetti necessari (come Git, PyTorch, PyYAML) sono stati installati con successo.

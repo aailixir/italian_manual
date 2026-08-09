@@ -41,3 +41,7 @@ Clicca per scaricare il file di installazione (il file di solito pesa alcuni GB)
 3. Esegui il programma di installazione: Fai doppio clic sul file .exe scaricato per l'installazione. Si consiglia di scegliere l'installazione "Rapida (Express)", che installerà automaticamente tutti i componenti necessari e configurerà le variabili d'ambiente di Windows. Se disponi già di un driver più recente, il programma di installazione ti chiederà se sovrascriverlo; di solito, è meglio mantenere la versione più recente.
 
 4. Verifica l'installazione: Al termine dell'installazione, premi Win + R, digita cmd per aprire il prompt dei comandi e inserisci il seguente comando:
+
+```
+nvidia-smi
+```

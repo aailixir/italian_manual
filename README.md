@@ -104,7 +104,7 @@ Dopo aver effettuato l'accesso, vai al menu a sinistra sotto "Addestramento Mode
 
 💡 Suggerimento: Questa funzione evita agli utenti il fastidio di configurare manualmente ambienti complessi. Se indica che non sono installati, puoi cliccare su "Diagnostica Pacchetti" per procedere con l'installazione dinamica.
 
-![Installazione](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_install.jpg)
+![Installazione](https://github.com/aailixir/italian_manual/blob/main/images/demo_install_it.jpg)
 
 ## Panoramica Pacchetti
 Se l'installazione va a buon fine, cliccando sul pulsante "Panoramica Pacchetti" verranno mostrati i componenti essenziali come Git, PyTorch, PyYAML e il loro stato di installazione.

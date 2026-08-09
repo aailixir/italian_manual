@@ -85,7 +85,8 @@ Il sistema supporta il caricamento dinamico e l'addestramento dei seguenti model
 # Capitolo 2: Per Iniziare
 Dopo aver completato l'installazione e avviato il servizio, apri il browser e inserisci il seguente URL per accedere al sistema:
 
-http://127.0.0.1:8080 oppure
+http://127.0.0.1:8080 oppure 
+
 http://localhost:8080 
 
 Puoi accedere utilizzando il nome utente e la password predefiniti:
@@ -96,7 +97,7 @@ Puoi accedere utilizzando il nome utente e la password predefiniti:
 Dopo aver inserito il nome utente e la password, clicca sul pulsante "Login".
 
 
-<img width="1920" height="963" alt="image" src="https://github.com/user-attachments/assets/8a00ce62-53ad-40f2-a202-8ed6dc68ef31" />
+![login](https://github.com/aailixir/italian_manual/blob/main/images/demo_nvidia.jpg)
 
 ## Panoramica dei Pacchetti di Configurazione dell'Ambiente
 Dopo aver effettuato l'accesso, vai al menu a sinistra sotto "Addestramento Modello AI" e clicca sul pulsante "Panoramica Pacchetti". Il sistema rileverà automaticamente se CUDA e altri pacchetti necessari (come Git, PyTorch, PyYAML) sono stati installati con successo.

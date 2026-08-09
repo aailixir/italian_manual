@@ -18,7 +18,7 @@ Per acquistare licenze software o per supporto tecnico, si prega di contattare:
 ## Installazione del Software
 Scarica il pacchetto di installazione del software Ailixir, fai doppio clic con il mouse ed esegui l'installazione del software AI Ailixir.
 
-<img width="648" height="448" alt="image" src="[https://github.com/user-attachments/assets/55c3708e-7c4b-460a-89bc-019e4777143f](https://github.com/aailixir/italian_manual/blob/main/images/install_it.jpg)" />
+<img width="648" height="448" alt="image" src="[https://github.com/aailixir/italian_manual/blob/main/images/install_it.jpg]" />
 
 ## Installazione di CUDA
 ### Passaggi per l'installazione su Windows

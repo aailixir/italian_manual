@@ -123,7 +123,7 @@ Un dataset AI di immagini è una raccolta di file fotografici, mentre il dataset
 
 ## Schermata di Impostazione Dataset AI
 
-<img width="1906" height="954" alt="image" src="https://github.com/user-attachments/assets/f056a99b-c7d4-47fe-889f-a70e509bcf72" />
+![Diagnostica](https://github.com/aailixir/italian_manual/blob/main/images/demo_step1_it.jpg)
 
 ## Impostazioni Dataset AI
 Prima di tutto, clicca su "Impostazioni Dataset AI" nel menu di navigazione a sinistra per configurare "Gruppi" e "Dataset". Clicca su "Aggiungi gruppo" per gestire i gruppi.

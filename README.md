@@ -144,7 +144,7 @@ Dopo aver selezionato il gruppo appena creato, puoi cliccare sul pulsante "Aggiu
 + ID Gruppo: Utilizzato per localizzare il dataset.
 + Dashboard HTML: Reportistica personalizzabile per l'utente.
   
-<img width="1913" height="850" alt="image" src="https://github.com/user-attachments/assets/d2aa32b8-d0a0-4c01-8a08-5c937c63aa05" />
+![group_modify](https://github.com/aailixir/italian_manual/blob/main/images/demo_group_modify_it.jpg)
 
 ## Modifica Dataset
 La modifica del dataset consente di cambiare i dettagli relativi al gruppo e al dataset. Il "Percorso locale" è la directory in cui sono archiviate le foto e le annotazioni.

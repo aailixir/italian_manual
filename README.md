@@ -12,7 +12,7 @@ Per i video dimostrativi sul riconoscimento e i tutorial operativi, consulta il 
 ## 📞 Acquisti e Supporto Tecnico
 Per acquistare licenze software o per supporto tecnico, si prega di contattare:
 * **Email**: [aailixir@gmail.com](mailto:aailixir@gmail.com)
-* **Contattaci**: [Sito Ufficiale Hus Technology](https://anno.ailixir.com.tw/#contact)
+* **Contattaci**: [Sito Ufficiale Huis Technology](https://anno.ailixir.com.tw/#contact)
 
 # Capitolo 1: Preparazione prima dell'uso
 ## Installazione del Software

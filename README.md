@@ -114,7 +114,7 @@ Se l'installazione va a buon fine, cliccando sul pulsante "Panoramica Pacchetti"
 ## Diagnostica Pacchetti
 Se l'installazione fallisce, puoi cliccare sul pulsante "Diagnostica Pacchetti" per avviare il processo di installazione.
 
-![Diagnostica](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_step1.jpg)
+![Diagnostica](https://github.com/aailixir/italian_manual/blob/main/images/demo_step1_it.jpg)
 
 # Capitolo 3: Introduzione ai Dataset AI
 Un dataset AI di immagini è una raccolta di file fotografici, mentre il dataset annotato (file di testo txt) rappresenta il processo di istruzione dell'IA. L'immagine seguente mostra un dataset pre-etichettato. 

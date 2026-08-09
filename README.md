@@ -109,7 +109,7 @@ Dopo aver effettuato l'accesso, vai al menu a sinistra sotto "Addestramento Mode
 ## Panoramica Pacchetti
 Se l'installazione va a buon fine, cliccando sul pulsante "Panoramica Pacchetti" verranno mostrati i componenti essenziali come Git, PyTorch, PyYAML e il loro stato di installazione.
 
-![Panoramica](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_pytorch.jpg)
+![Panoramica](https://github.com/aailixir/italian_manual/blob/main/images/demo_pytorch_it.jpg)
 
 ## Diagnostica Pacchetti
 Se l'installazione fallisce, puoi cliccare sul pulsante "Diagnostica Pacchetti" per avviare il processo di installazione.

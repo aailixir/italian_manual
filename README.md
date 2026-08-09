@@ -46,7 +46,7 @@ Clicca per scaricare il file di installazione (il file di solito pesa alcuni GB)
 nvidia-smi
 ```
 
-![nvidia-smi](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_nvidia.jpg)
+![nvidia-smi](https://github.com/aailixir/italian_manual/blob/main/images/install_it.jpg)
 
 ### Passaggi per l'installazione su Linux (Ubuntu)
 1. Sui sistemi Linux, di solito si consiglia di utilizzare i comandi da terminale e di installare tramite file .deb o .run. 1. Installa il driver della scheda grafica NVIDIA: è necessario riavviare il sistema. Apri il terminale, aggiorna il repository dei pacchetti di sistema, quindi consenti al sistema di trovare e installare automaticamente i driver NVIDIA più adatti:

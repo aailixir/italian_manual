@@ -194,7 +194,7 @@ L'annotazione Rettangolare è il formato base per le annotazioni AI e il formato
 - Trascina gli ancoraggi: Trascina i punti di ancoraggio per adattarli alle dimensioni dell'oggetto.
 - Trascina i bordi: Regola i confini dell'annotazione per adattarli all'oggetto.
 
-<img width="1920" height="967" alt="image" src="https://github.com/user-attachments/assets/f86e97b9-7e06-430c-8cb0-26aee4256367" />
+![label](images/deme_label_it.jpg)
 
 L'annotazione Poligonale, nota anche come segmentazione semantica (segmentation), è un formato avanzato per l'annotazione YOLO AI.
 

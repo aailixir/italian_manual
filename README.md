@@ -175,8 +175,8 @@ Seleziona un gruppo o un dataset per spostarne la posizione.
 
 # Capitolo 4: Annotazione Dataset AI
 Dopo che il gruppo e il dataset sono stati aggiunti, appariranno nel menu a sinistra. Cliccando sul dataset si visualizzeranno le relative foto.
+![main](https://github.com/aailixir/italian_manual/blob/main/images/deme_main_it.jpg)
 
-<img width="1904" height="957" alt="image" src="https://github.com/user-attachments/assets/9011d6bb-91e3-4827-9cc5-3967f5e60bde" />
 
 ## Caricamento, Modifica ed Eliminazione Dataset
 Una volta completata la creazione dei nomi del gruppo e del dataset, puoi cliccare sul gruppo a sinistra, selezionare il dataset desiderato e accedere alle impostazioni funzionali:

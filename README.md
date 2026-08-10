@@ -164,7 +164,7 @@ La modifica del dataset consente di cambiare i dettagli relativi al gruppo e al 
 
 Seleziona un gruppo o un dataset per procedere all'eliminazione.
 
-<img width="588" height="48" alt="image" src="https://github.com/user-attachments/assets/e69d009f-5759-41ee-b228-4d21940ae0bc" />
+[![title](https://github.com/aailixir/italian_manual/blob/main/images/install_it.jpg)
 
 ## Spostamento Dataset
 Seleziona un gruppo o un dataset per spostarne la posizione.

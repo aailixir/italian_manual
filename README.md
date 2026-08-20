@@ -254,29 +254,38 @@ Ciclo Epoch: Rappresenta il ciclo di addestramento. In genere, si consiglia di s
 ![Addestramento YOLO](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_yolo_training.jpg)
 
 # Capitolo 6: Gestione delle Versioni del Modello
-Dopo aver addestrato il tuo primo modello YOLO, il modello AI apparirà nel menu "Gestione Rilasci" (Model Version Management), dove potrai eseguire le seguenti azioni:
+Dopo aver completato l'addestramento del primo modello YOLO, il modello AI YOLO sarà visibile all'interno del menu "Gestione delle Versioni del Modello". Da qui è possibile effettuare le seguenti operazioni:
 
-## Revisione del Rapporto del Modello
-Il sistema genererà automaticamente un report di addestramento dettagliato, che include:
+## Revisione del Report del Modello
+Il sistema genererà automaticamente un report di addestramento dettagliato, contenente:
 
-* Grafico della distribuzione delle annotazioni (Correlogrammi/Etichette) <BR>
-* Risultati dei test di inferenza <BR>
-* Curva del F1 Score <BR>
+* Grafico di distribuzione delle etichette di riconoscimento <BR>
+* Risultati del test di riconoscimento <BR>
+* Curva F1 Score <BR>
 * Matrice di Confusione (Confusion Matrix) <BR>
 
-![Report Modello 1](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_yolo_release1.jpg)
+![Report Modello](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_yolo_release1.jpg)
 
 ![Report Modello 2](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_yolo_release2.jpg)
 
-## Riaddestramento del Modello
-Se l'accuratezza del modello non è soddisfacente, puoi cliccare sul pulsante "Riprova Addestramento" (Retrain) per eseguire un addestramento iterativo.
+## Ri-addestramento del Modello
+Se l'accuratezza del modello risulta insoddisfacente, è possibile fare clic sul pulsante "Ri-addestra" per procedere con un addestramento iterativo.
 
-![Riaddestramento](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_yolo_again.jpg)
+![Ri-addestramento](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_yolo_again.jpg)
 
-## Pre-etichettatura Foto
-Puoi caricare nuovamente un dataset di foto per la pre-etichettatura. Questa funzione permette di inserire immagini più varie per validare il modello AI. Affinché un modello YOLO AI sia accurato, necessita di annotazioni da molteplici angolazioni per favorire l'apprendimento delle diversità. Generalmente, 300 foto permettono il riconoscimento base, ma per ottenere alta precisione servono dalle 3.000 alle 30.000 immagini. Fornire un dataset vario, identificando i riconoscimenti errati e correggendo le annotazioni, incrementa significativamente la precisione del modello.
+## Pre-etichettatura delle Immagini
+È possibile caricare nuovamente un dataset di immagini per la pre-etichettatura. Questa funzione consente di aggiungere una maggiore varietà di immagini per la verifica del modello AI. Per ottenere un'elevata precisione, YOLO AI necessita di annotazioni effettuate da diverse angolazioni per apprendere la variabilità dei dati. In linea generale, con 300 immagini per categoria il sistema inizia a riconoscere l'oggetto, mentre con un volume da 3.000 a 30.000 immagini si ottiene un'ottima accuratezza. Fornire dataset diversificati identificando gli errori di riconoscimento e correggendone le etichette permette di migliorare la precisione del modello.
 
 ![Upload](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_yolo_upload.jpg)
+
+# Capitolo 7: Esportazione Report No-Code / Low-Code (Funzionalità futura)
+![Diagramma Applicativo](images/demo_application.jpg)
+
+# Capitolo 8: Impostazioni di Sistema
+## Gestione Account
+Il sistema supporta l'accesso multi-utente per le attività di etichettatura, addestramento e riconoscimento. Dal menu di configurazione dell'account è possibile aggiungere, modificare ed eliminare gli utenti.
+
+![Account](images/demo_account.jpg)
 
 # Capitolo 9: Large Language Models (LLM)
 

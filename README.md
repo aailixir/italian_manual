@@ -228,30 +228,53 @@ L'elenco delle etichette si basa sui file YAML o YOLO names, e mappa il nome del
 ⚠️ L'Elenco Etichette supporta esclusivamente caratteri inglesi e alfanumerici.
 
 # Capitolo 5: Addestramento del Modello
-Dopo aver completato [L'installazione di CUDA](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_cuda_ok.jpg), puoi fare riferimento alla "Panoramica dei Pacchetti di Configurazione dell'Ambiente". Clicca sul pulsante "Panoramica Pacchetti" per assicurarti che tutti i componenti siano installati correttamente. L'immagine sottostante mostra un'installazione riuscita.
+Dopo aver completato l'[installazione di CUDA](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_cuda_ok.jpg), è possibile consultare la "Panoramica dei pacchetti di configurazione dell'ambiente". Fare clic sul pulsante "Panoramica pacchetti" per verificare se i relativi pacchetti sono stati installati correttamente. L'immagine sottostante indica che l'installazione dei pacchetti è stata completata.
 
-![Cuda OK](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_cuda_ok.jpg)
+![CUDA OK](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_cuda_ok.jpg)
 
-Successivamente, procedi con l'installazione del modello YOLO.
+A questo punto, procedere con l'installazione del modello YOLO.
 
 ## Installazione del Modello YOLO
-Vai al menu "Addestramento Modello AI", scegli il modello AI desiderato e clicca sul pulsante "Installa Motore" (Install Engine) per scaricare il motore del modello.
+Andare al menu "Addestramento Modello AI", selezionare il modello AI desiderato e fare clic sul pulsante "Installazione Engine" per scaricare l'engine del modello.
 
-⚠️ Assicurati che il tuo host di annotazione sia connesso a Internet, altrimenti non potrai scaricare il motore del modello.
+⚠️ Assicurarsi che l'host di etichettatura sia connesso a Internet per poter scaricare l'engine del modello.
 
-Segui i passaggi per completare l'installazione del motore YOLO per il futuro addestramento.
+Seguire i passaggi per completare l'installazione degli engine relativi a YOLO per il futuro addestramento dei modelli.
 
 ![Installazione YOLO](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_yolo_setup.jpg)
 
 ## Comandi di Addestramento
-Se preferisci utilizzare la Command Line (Terminale), puoi cliccare sul pulsante "Comando di Addestramento" per copiare la sintassi necessaria.
+Se si preferisce l'utilizzo della riga di comando (Command Line), è possibile fare clic sul pulsante "Comandi di Addestramento" per copiare i comandi.
+![CMD Installazione](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_cmd.jpg)
 
 ## Addestramento del Modello
-Per addestrare il tuo modello YOLO AI, clicca sul pulsante "Avvia Addestramento".
+Per addestrare un modello YOLO AI, fare clic sul pulsante "Avvia Addestramento".
 
-Ciclo Epoch: Rappresenta il ciclo di addestramento. In genere, si consiglia di selezionare inizialmente 25 o 50 Epoche per un addestramento rapido. Successivamente, si potrà eseguire un addestramento iterativo più lungo per migliorare il [F1 score](https://it.wikipedia.org/wiki/F1_score).
+Epoche (Epoch): indica i cicli di addestramento. In genere, si consiglia di selezionare inizialmente 25 o 50 Epoche per un addestramento rapido; successivamente sarà possibile eseguire addestramenti iterativi più lunghi per migliorare l'[F1 score](https://zh.wikipedia.org/zh-tw/F-score).
 
 ![Addestramento YOLO](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_yolo_training.jpg)
+
+## Report di Addestramento del Modello
+Sia a completamento dell'addestramento sia in caso di addestramento incompleto, l'utente può fare clic su "..." per aprire il report sui risultati dell'addestramento, utile per il supporto tecnico.
+
+![Log di Addestramento](images/demo_training_log.jpg)
+
+## Addestramento Combinato per Gruppi
+Lo scopo principale dell'impostazione dei gruppi è consentire l'addestramento combinato futuro di dataset con lo stesso file YAML di addestramento e file di nomi delle classi (Names), pur essendo stati etichettati in batch diversi. Questo accelera efficacemente la velocità di caricamento delle pagine web durante la revisione a lotti delle etichette. Infatti, se un dataset di decine di migliaia di immagini non venisse suddiviso in batch, ogni caricamento richiederebbe un tempo estremamente lungo.
+
+* "Set Comandi di Addestramento" del gruppo: unisce e addestra le directory di diversi dataset.
+* "Addestramento Combinato" del gruppo: facendo clic si apre una finestra di dialogo in cui è possibile selezionare un "Dataset predefinito". Durante l'addestramento, il sistema utilizzerà in modo unificato i file YAML e delle classi di tale dataset.
+* "Avvia Addestramento" del gruppo: avvia l'esecuzione dell'addestramento combinato sulle directory di più dataset.
+
+Istruzioni per le operazioni nella finestra:
+* Salva: salva le impostazioni del dataset predefinito.
+* Leggi YAML combinato: consente di visualizzare il contenuto del file YAML.
+* Annulla: annulla le modifiche alle impostazioni.
+* Chiudi: chiude la finestra.
+
+⚠️ Attenzione: Se i nomi delle classi (Names) o le impostazioni YAML differiscono, verranno considerati come dataset di riconoscimento distinti. Non combinare dataset non omogenei, altrimenti la frequenza di riconoscimento potrebbe ridursi notevolmente o il modello potrebbe non essere più in grado di effettuare il riconoscimento.
+
+![Combinato](https://github.com/aailixir/chinese_usermanual/blob/main/images/deme_combined.jpg)
 
 # Capitolo 6: Gestione delle Versioni del Modello
 Dopo aver completato l'addestramento del primo modello YOLO, il modello AI YOLO sarà visibile all'interno del menu "Gestione delle Versioni del Modello". Da qui è possibile effettuare le seguenti operazioni:

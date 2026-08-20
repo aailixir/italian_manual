@@ -281,7 +281,7 @@ Puoi caricare nuovamente un dataset di foto per la pre-etichettatura. Questa fun
 # Avviso di Copyright
 # Ailixir - Termini di Licenza e Servizi Commerciali
 
-Copyright (c) 2026 Hus Technology Co., Ltd. Tutti i diritti riservati.
+Copyright (c) 2026 Ailixir Technology Co., Ltd. Tutti i diritti riservati.
 
 ## 1. Licenza Open Source (AGPL-3.0)
 
@@ -303,7 +303,7 @@ Se la vostra organizzazione/azienda desidera integrare Ailixir in un sistema pro
 * **Supporto Tecnico Prioritario e SLA:** Manutenzione dedicata del sistema, sviluppo prioritario di funzionalità e assistenza continua negli aggiornamenti di versione.
 
 💼 **Contattaci per Licenze Commerciali e Consulenza:**
-* **Nome Azienda:** Hus Technology Co., Ltd. (Ailixir Technology Co., Ltd.)
+* **Nome Azienda:** Ailixir Technology Co., Ltd. (Ailixir Technology Co., Ltd.)
 * **Email Ufficiale:** ailixir@gmail.com
 * **Sito Ufficiale:** https://anno.ailixir.com.tw/
 * **Download del Software:** [https://anno.ailixir.com.tw/](https://anno.ailixir.com.tw/downloads)

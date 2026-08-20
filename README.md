@@ -278,6 +278,14 @@ Puoi caricare nuovamente un dataset di foto per la pre-etichettatura. Questa fun
 
 ![Upload](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_yolo_upload.jpg)
 
+# Capitolo 9: Large Language Models (LLM)
+
+Per l'integrazione e l'utilizzo con i modelli linguistici di grandi dimensioni, installare prima [Ollama](https://ollama.com).
+
+Dopo aver configurato la porta di comunicazione e il modello in Ollama, sarà possibile utilizzare l'**Assistente Intelligente AI** per interagire con il modello LLM selezionato.
+
+![chat](images/demo_llm_chat_it.jpg)
+
 # Avviso di Copyright
 # Ailixir - Termini di Licenza e Servizi Commerciali
 

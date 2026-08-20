@@ -279,7 +279,7 @@ Se l'accuratezza del modello risulta insoddisfacente, è possibile fare clic sul
 ![Upload](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_yolo_upload.jpg)
 
 # Capitolo 7: Esportazione Report No-Code / Low-Code (Funzionalità futura)
-![Diagramma Applicativo](images/demo_application.jpg)
+![Diagramma Applicativo](images/demo_application_it.jpg)
 
 # Capitolo 8: Impostazioni di Sistema
 ## Gestione Account

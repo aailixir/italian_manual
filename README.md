@@ -278,14 +278,34 @@ Puoi caricare nuovamente un dataset di foto per la pre-etichettatura. Questa fun
 
 ![Upload](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_yolo_upload.jpg)
 
-# Avviso sul Copyright
-Questo sito web/programma è fornito da Apache HTTP Server e sviluppato utilizzando il linguaggio di programmazione PHP. <BR>
-© 2026 Hus Technology Co., Ltd. Tutti i diritti riservati. <BR>
-Questo codice e la relativa documentazione sono solo per scopi di studio e ricerca, e non possono essere copiati, distribuiti o utilizzati per scopi commerciali senza autorizzazione. In caso di citazione o modifica, si prega di mantenere le informazioni dell'autore originale e questo avviso sul copyright. <BR>
-Apache HTTP Server è un progetto open-source di Apache Software Foundation. <BR>
-PHP è un linguaggio di programmazione open-source sviluppato e mantenuto da The PHP Group. <BR>
-Entrambi vengono utilizzati in conformità con i rispettivi termini di licenza (Apache License 2.0 e PHP License). <BR>
- 
-Questo progetto utilizza i suddetti software esclusivamente all'interno dell'ambito di autorizzazione legale, e non rappresenta alcuna affiliazione o partnership con Apache Software Foundation o The PHP Group. <BR>
+# Avviso di Copyright
+# Ailixir - Termini di Licenza e Servizi Commerciali
+
+Copyright (c) 2026 Hus Technology Co., Ltd. Tutti i diritti riservati.
+
+## 1. Licenza Open Source (AGPL-3.0)
+
+Il sistema principale di Ailixir è rilasciato come open source sotto i termini della **GNU Affero General Public License v3.0 (AGPL-3.0)**.
+
+In base a questa licenza, sei libero di studiare, modificare e utilizzare Ailixir per scopi personali, educativi o di ricerca interna. Tuttavia, se modifichi Ailixir o lo integri in un'applicazione web, un servizio SaaS o API fornito tramite rete, **devi rendere pubblico l'intero codice sorgente in conformità con i termini della licenza AGPL-3.0**.
+
+Per il testo completo della licenza, consultare: [Testo Ufficiale della Licenza AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.html).
+
+
+## 2. Licenza Commerciale e Servizi di Consulenza Specialistica (Commercial License & Consulting)
+
+Se la vostra organizzazione/azienda desidera integrare Ailixir in un sistema proprietario esentandosi dagli obblighi open source dell'AGPL-3.0, oppure necessita di un deployment on-premise professionale e dell'integrazione di modelli AI personalizzati, offriamo **licenze commerciali e servizi di consulenza chiavi in mano**.
+
+### Vantaggi della Collaborazione Commerciale:
+* **Esenzione dai vincoli AGPL:** Consente di incorporare Ailixir in sistemi aziendali interni proprietari e a codice chiuso.
+* **Deployment On-Premise Privato:** Installazione e ottimizzazione personalizzate per dispositivi edge (Edge Devices), server GPU locali e ambienti completamente isolati dalla rete (air-gapped).
+* **Workflow AI Personalizzati:** Fine-tuning dedicato per modelli YOLO / VLM, integrazione di LLM locali tramite Ollama e pipeline automatizzate per la reportistica Word/Excel.
+* **Supporto Tecnico Prioritario e SLA:** Manutenzione dedicata del sistema, sviluppo prioritario di funzionalità e assistenza continua negli aggiornamenti di versione.
+
+💼 **Contattaci per Licenze Commerciali e Consulenza:**
+* **Nome Azienda:** Hus Technology Co., Ltd. (Ailixir Technology Co., Ltd.)
+* **Email Ufficiale:** ailixir@gmail.com
+* **Sito Ufficiale:** https://anno.ailixir.com.tw/
+* **Download del Software:** [https://anno.ailixir.com.tw/](https://anno.ailixir.com.tw/downloads)
 
 

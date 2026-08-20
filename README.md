@@ -276,7 +276,7 @@ Se l'accuratezza del modello risulta insoddisfacente, è possibile fare clic sul
 ## Pre-etichettatura delle Immagini
 È possibile caricare nuovamente un dataset di immagini per la pre-etichettatura. Questa funzione consente di aggiungere una maggiore varietà di immagini per la verifica del modello AI. Per ottenere un'elevata precisione, YOLO AI necessita di annotazioni effettuate da diverse angolazioni per apprendere la variabilità dei dati. In linea generale, con 300 immagini per categoria il sistema inizia a riconoscere l'oggetto, mentre con un volume da 3.000 a 30.000 immagini si ottiene un'ottima accuratezza. Fornire dataset diversificati identificando gli errori di riconoscimento e correggendone le etichette permette di migliorare la precisione del modello.
 
-![Upload](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_yolo_upload.jpg)
+![Upload](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_yolo_upload_it.jpg)
 
 # Capitolo 7: Esportazione Report No-Code / Low-Code (Funzionalità futura)
 ![Diagramma Applicativo](images/demo_application_it.jpg)
